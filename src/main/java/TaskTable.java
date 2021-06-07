@@ -61,11 +61,11 @@ public class TaskTable {
         table.setFont(new Font("Segoe UI", Font.BOLD,12));
         table.setRowHeight(30);
 
-        //image icons
-        //ImageIcon home = new ImageIcon("home.png");
-        //ImageIcon task = new ImageIcon("task.png");
-        //ImageIcon calendar = new ImageIcon("calendar.png");
-        //ImageIcon user = new ImageIcon("user.png");
+        //image icons NOT USED YET
+        ImageIcon home = new ImageIcon("home.png");
+        ImageIcon task = new ImageIcon("task.png");
+        ImageIcon calendar = new ImageIcon("calendar.png");
+        ImageIcon user = new ImageIcon("user.png");
         //icon labels
 
         //JLabel homeImg = new JLabel();
